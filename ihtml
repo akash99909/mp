@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<div class="flex-grow overflow-hidden h-full flex flex-col">
+
+
+    <div class="flex-grow bg-white dark:bg-gray-900 overflow-y-auto">
+        <div style="background-color:black ;" class="">
+            <div class="flex w-full items-center">
+                <div style="color: white; margin-left: 2rem;" class="flex items-center text-3xl text-gray-900 dark:text-white">
+
+                    Chromalloy
+                </div>
+                <div style="color: white;" class="ml-auto sm:flex hidden items-center justify-end">
+
+                    <div class="buttons">
+
+                        <a href="{{url_for('logout')}}"><button class="btn-hover color-11">Logout</button></a>
+                    </div>
+                </div>
+            </div>
+
+            <div style=" margin-left: 2rem;" class="flex items-center space-x-3 sm:mt-7 mt-4">
+                <a style="color: white;" href="#" class="px-3 border-b-2 border-transparent text-gray-600 dark:text-gray-400 pb-1.5 sm:block hidden">Home</a>
+                <a style="color: white;" href="{{url_for('datavaluesshow')}}" class="px-3 border-b-2 border-blue-500 text-blue-500 dark:text-white dark:border-white pb-1.5">Chromalloy Current Year Repairs</a>
+                <a style="color: white;" href="{{url_for('approvalDataShow')}}" class="px-3 border-b-2 border-transparent text-gray-600 dark:text-gray-400 pb-1.5">Approval</a>
+                <a style="color: white;" href="{{url_for('showCompanies')}}" class="px-3 border-b-2 border-transparent text-gray-600 dark:text-gray-400 pb-1.5 sm:block hidden">Add New Company</a>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+<section class="ftco-section">
+    <div class="container">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+        <div class="ml-auto text-gray-500 text-xs sm:inline-flex hidden items-center">
+            <div class="buttons">
+                <button class="btn-hover color-11" type="button" onclick="addNewRow()">Add New</button>
+            </div>
+
+            <div class="buttons">
+                <button class="btn-hover color-11" type="submit">Submit</button>
+            </div>
+        </div>
+
+
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="table-wrap">
+                    <table class="table">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>ID no.</th>
+                                <th>First Name</th>
+                                <th>Last Name</th>
+                                <th>Email</th>
+                                <th>ID no.</th>
+                                <th>First Name</th>
+                                <th>Last Name</th>
+                                <th>Email</th>
+                                <th>ID no.</th>
+                                <th>First Name</th>
+                                <th>Last Name</th>
+                                <th>Email</th>
+                                <th>ID no.</th>
+                                <th>First Name</th>
+                                <th>Last Name</th>
+                                <th>Email</th>
+                                <th>ID no.</th>
+                                <th>First Name</th>
+                                <th>Last Name</th>
+                                <th>Email</th>
+                                <th>&nbsp;</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr class="alert" role="alert">
+                                <th scope="row">001</th>
+                                <td>Mark</td>
+                                <td>Otto</td>
+                                <td>markotto@email.com</td>
+                                <td>
+                                    <a href="#" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true"><i class="fa fa-close"></i></span>
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr class="alert" role="alert">
+                                <th scope="row">002</th>
+                                <td>Jacob</td>
+                                <td>Thornton</td>
+                                <td>jacobthornton@email.com</td>
+                                <td>
+                                    <a href="#" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true"><i class="fa fa-close"></i></span>
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr class="alert" role="alert">
+                                <th scope="row">003</th>
+                                <td>Larry</td>
+                                <td>the Bird</td>
+                                <td>larrybird@email.com</td>
+                                <td>
+                                    <a href="#" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true"><i class="fa fa-close"></i></span>
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr class="alert" role="alert">
+                                <th scope="row">004</th>
+                                <td>John</td>
+                                <td>Doe</td>
+                                <td>johndoe@email.com</td>
+                                <td>
+                                    <a href="#" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true"><i class="fa fa-close"></i></span>
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr class="alert" role="alert">
+                                <th scope="row">005</th>
+                                <td>Gary</td>
+                                <td>Bird</td>
+                                <td>garybird@email.com</td>
+                                <td>
+                                    <a href="#" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true"><i class="fa fa-close"></i></span>
+                                    </a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
