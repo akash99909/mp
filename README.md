@@ -1,10 +1,10 @@
-### Goal: Increasing my commitment by 90% in ensuring that all project outputs meet high-quality standards and are delivered within the designated timelines.
-**Counter:** Increased commitment by 90% in ensuring high-quality standards and timely delivery of all project outputs. This commitment has led to consistently high-quality project deliverables that meet or exceed client expectations and adherence to designated timelines.
+### Goal: Increasing in identifying opportunities for automation to streamline repetitive and time-consuming tasks by 95%.
+**Counter:** Identified and implemented opportunities for automation, streamlining 95% of repetitive and time-consuming tasks. This initiative has significantly increased efficiency, allowing the team to focus on higher-value activities and reducing the overall time spent on manual processes.
 
-### Goal: Incorporate and help my team follow project schedules, and actively communicate any potential delays or roadblocks to stakeholders to ensure successful project outcomes in all the sprints.
-**Counter:** Successfully incorporated and assisted my team in adhering to project schedules. Actively communicated any potential delays or roadblocks to stakeholders, ensuring that all sprints resulted in successful project outcomes. This proactive communication and adherence to schedules have minimized disruptions and enhanced project success rates.
+### Goal: Helping in establishing KPIs to measure the effectiveness of process improvements like cost saving by 70%.
+**Counter:** Assisted in establishing key performance indicators (KPIs) to measure the effectiveness of process improvements. Achieved a 70% improvement in cost savings through these KPIs, providing clear metrics that demonstrate the financial benefits and overall impact of the implemented improvements.
 
-### Goal: Ensuring that all project outputs meet high-quality standards and are delivered within the designated timelines.
-**Counter:** Demonstrated a strong commitment to ensuring all project outputs met high-quality standards and were delivered on time. Implemented rigorous quality control processes and effective time management practices, resulting in consistent delivery of high-quality project outputs within the established timelines.
+### Goal: Incorporating regular reviews to assess progress towards goals.
+**Counter:** Incorporated a system of regular reviews to assess progress towards goals. These reviews have been instrumental in ensuring that the team remains on track, identifying any deviations early, and making necessary adjustments to achieve desired outcomes. Regular assessments have fostered continuous improvement and accountability within the team.
 
-These counters reflect your significant commitment to quality and timeliness, proactive team support, and effective stakeholder communication, all of which have contributed to successful project outcomes.
+These counters demonstrate your active role in enhancing efficiency through automation, establishing effective KPIs for process improvements, and maintaining consistent progress reviews to achieve project goals.
